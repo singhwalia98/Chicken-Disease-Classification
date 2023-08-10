@@ -23,7 +23,7 @@ list_of_files = [
     "setup.py",
     "research/trials.ipynb",
     "templates/index.html"
-    
+        
 ]
 
 for file_path in list_of_files:
