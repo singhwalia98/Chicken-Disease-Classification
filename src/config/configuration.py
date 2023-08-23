@@ -1,4 +1,4 @@
-from cnnClassifier.constants import *
+from src.constants import *
 import os
 from pathlib import Path
 from src.utils.common import read_yaml, create_directories
