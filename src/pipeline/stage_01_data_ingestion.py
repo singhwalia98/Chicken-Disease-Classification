@@ -1,3 +1,5 @@
+import sys
+sys.path.append(r"D:\\Ineuron\\Deep_Learning\\Chicken_Disease_Classification")
 from src.config.configuration import ConfigurationManager
 from src.components.data_ingestion import DataIngestion
 from src import logger
